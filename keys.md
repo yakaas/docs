@@ -1,3 +1,17 @@
+## Emacs
+
+### Navigation
+
+- C-v : Jump forward one full screen.
+- M-v : Jump backwards one full screen. ( If you dont have Meta key, use ESC key )
+- C-l : Make the current line as center line of window.
+- M-f : navigate a word forward.
+- M-b : navigate a word backward.
+
+#### paragraph
+- M-a : Go to the beginning of the current paragraph. By pressing M-a again and again move to the previous paragraph beginnings.
+- M-e : Go to the end of the current paragraph. By pressing M-e again and again move to the next paragraph end, and again.
+
 
 ## Neotree
 ### Shortcut (Only in Neotree Buffer)

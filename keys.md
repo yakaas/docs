@@ -43,3 +43,12 @@
 - neotree-rename-node Rename a Node
 - neotree-delete-node Delete a Node
 - neotree-create-node Create a file or a directory (if filename ends with ‘/’)
+
+### Find and replace in files
+    `M-x` `find-name-dired`: you will be prompted for a root directory and a filename pattern.
+    Press `t` to "toggle mark" for all files found.
+    Press `Q` for "Query-Replace in Files...": you will be prompted for query/substitution regexps.
+    Proceed as with query-replace-regexp: `SPACE` to replace and move to next match, n to skip a match, etc.
+    Press C-x s to save buffers. (You can then press y for yes, n for no, or ! for yes for all)
+
+

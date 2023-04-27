@@ -8,6 +8,9 @@
 - M-f : navigate a word forward.
 - M-b : navigate a word backward.
 
+Edit
+- M-d : delete rest of the word from the cursor
+
 #### paragraph
 - M-a : Go to the beginning of the current paragraph. By pressing M-a again and again move to the previous paragraph beginnings.
 - M-e : Go to the end of the current paragraph. By pressing M-e again and again move to the next paragraph end, and again.

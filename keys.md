@@ -47,7 +47,7 @@ Edit
 - neotree-delete-node Delete a Node
 - neotree-create-node Create a file or a directory (if filename ends with ‘/’)
 
-### Find and replace in files
+### Find and replace in [files](https://www.gnu.org/software/emacs/manual/html_node/efaq/Replacing-text-across-multiple-files.html)
 - `M-x` `find-name-dired`: you will be prompted for a root directory and a filename pattern.
 - Press `t` to "toggle mark" for all files found.
 - Press `Q` for "Query-Replace in Files...": you will be prompted for query/substitution regexps.

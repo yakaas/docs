@@ -1,5 +1,8 @@
 ## Emacs
 
+### Style
+- Update font M-x menu-set-font   # https://stackoverflow.com/questions/6026713/how-do-i-change-emacs-default-font-size-and-font-type
+
 ### Navigation
 
 - C-v : Jump forward one full screen.

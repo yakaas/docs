@@ -18,6 +18,12 @@ Edit
 - M-a : Go to the beginning of the current paragraph. By pressing M-a again and again move to the previous paragraph beginnings.
 - M-e : Go to the end of the current paragraph. By pressing M-e again and again move to the next paragraph end, and again.
 
+### Indentation [link](https://stackoverflow.com/questions/11713743/indent-several-lines-in-emacs)
+- Select the region to be indented.
+- C-x TAB.
+- Use arrows (← and →) to indent interactively.
+- Press Esc three times when you are done with the required indentation.
+
 
 ## Neotree
 ### Shortcut (Only in Neotree Buffer)
